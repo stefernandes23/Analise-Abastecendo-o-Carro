@@ -1,4 +1,4 @@
-# <center> Resilia [Data Analytics]: Projeto M4 - Squad 6</center>
+# <center> Resilia [Data Analytics]: Projeto M4 </center>
 
 ### OBJETIVO:
 
