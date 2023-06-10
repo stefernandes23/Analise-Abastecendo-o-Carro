@@ -2,7 +2,7 @@
 
 ### OBJETIVO:
 
-O projeto tem como objetivo a realização de uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol para a Agência Nacional de Petróleo e Gás Natural e  Biocombustíveis (ANP). Para a realização do feito, foram utilizados os arquivos dos dois últimos meses do ano atual contendo a série  histórica dos preços da gasolina e do etanol em todo o Brasil, retirados no  portal dados.gov.  
+O projeto tem como objetivo a realização de uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol para a Agência Nacional de Petróleo e Gás Natural e  Biocombustíveis (ANP). Para a realização, foram utilizados os arquivos dos dois últimos meses do ano atual contendo a série  histórica dos preços da gasolina e do etanol em todo o Brasil, retirados no  portal dados.gov.  
 
 
 
